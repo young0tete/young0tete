@@ -1,5 +1,6 @@
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=young0tete&show_icons=true&theme=dark/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=young0tete&show_icons=true&locale=en&layout=compact" alt="young0tete" /></p>
+<p><img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=young0tete_python" /></p>
 
 <!--
 **young0tete/young0tete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
