@@ -30,7 +30,7 @@ Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=young0tete&show_icons=true&theme=dark/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young0tete&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young0tete&layout=compact&theme=tokyonight)
 
 <p><img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=young0tete" /></p>
 
