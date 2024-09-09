@@ -1,6 +1,7 @@
 <div align='center'>  
 
 ## Welcome to Han Youngtae's github
+Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 
 <div align='left'>
   
