@@ -26,7 +26,21 @@ Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 - 2024 Winter AI-Web Service Hackathon (2024, 1st Place)
 
 
+<br>
 <div align='center'>  
+
+## 🧑‍💻 Stacks
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+<br>
+<br>
+
+## 🖥️ github & PS
 
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=young0tete&show_icons=true&theme=dark/></p>
 
