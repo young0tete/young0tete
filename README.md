@@ -9,7 +9,7 @@ Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 - Sogang University (2020~)
   - Business & Computer Science Engineering
 
-## 📍Experiences
+## 📍Activities
 - Release (2022.09~)
   - CSE Project Society
 - Parrot (2023.03~2024.02)
