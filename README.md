@@ -43,6 +43,13 @@ Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
 
+<!-- 
+<img src="https://img.shields.io/badge/cuda-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+-->
+
+
 
 <br>
 <br>
