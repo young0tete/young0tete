@@ -3,8 +3,8 @@
 ## Welcome to Han Youngtae's github
 Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 
+<!--
 <div align='left'>
-  
 ## 🖋️ Education
 - Sogang University (2020~)
   - Business & Computer Science Engineering
@@ -24,7 +24,7 @@ Research interests: NeRF, 3D-GS, Diffusion, Text-to-Image, ViT, RS
 ## 🏆 Prizes
 - OUTTA AI Bootcamp E-commerce Rating Prediction & RS Building Project (2023, 1st place)
 - 2024 Winter AI-Web Service Hackathon (2024, 1st Place)
-
+-->
 
 <br>
 <div align='center'>  
