@@ -1,7 +1,7 @@
 <div align='center'>  
 
 ## Welcome to Han Youngtae's github
-Research interests: NeRF, 3D-GS, Diffusion LLM, GPU Accelerating and parallelization
+Research interests: NeRF, 3DGS, Diffusion, GPU Accelerating and parallelization, Distributed Computing
 <br>
 [Go to See My Portfolio](https://www.notion.so/Han-Young-tae-s-Portfolio-1ad8c40eec198014b106e9d084833305)
 
