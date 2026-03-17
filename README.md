@@ -7,7 +7,7 @@
 <div align='center'>  
 
 
-Research interests: 3DGS, Diffusion, VLM, GPU Accelerating and parallelization, Distributed Computing
+Research interests: 3DGS, VLM, VLA GPU Accelerating and parallelization, Distributed Computing
 <br>
 [Go to See My Profile](https://www.notion.so/Han-Young-tae-s-Portfolio-1ad8c40eec198014b106e9d084833305)
 
