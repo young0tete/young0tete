@@ -31,7 +31,7 @@ Research interests: 3DGS, VLM, VLA GPU Accelerating and parallelization, Distrib
 <!--
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=young0tete&show_icons=true&theme=dark/></p>
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young0tete&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young0tete&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
 
 <p><img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=young0tete" /></p>
 
